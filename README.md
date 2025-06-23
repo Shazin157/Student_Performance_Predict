@@ -25,4 +25,4 @@ Clustering Metrics
 For clustering, we evaluate the results by examining the intra-cluster similarities and intercluster
 dissimilarities. However, there is no direct ”metric” for clustering like accuracy, but
 visualizations and statistical summaries (such as mean feature values per cluster) provide insight
-into the cluster composition
+into the cluster composition.
